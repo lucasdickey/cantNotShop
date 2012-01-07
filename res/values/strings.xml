@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, CantNotShopActivity!</string>
+    <string name="app_name">CantNotShop</string>
+    
+    <!-- Navigation strings -->
+    <string name="nav_next">Next</string>
+    <string name="nav_prev">Previous</string>
+    
+    
+    <!-- Alert dialog buttons -->
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+
+</resources>
