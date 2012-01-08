@@ -2,6 +2,7 @@
 <resources>
 
     <string name="hello">Hello World, CantNotShopActivity!</string>
+    <string name="hello2">Hello World, 2nd time!</string>
     <string name="app_name">CantNotShop</string>
     
     <!-- Navigation strings -->
