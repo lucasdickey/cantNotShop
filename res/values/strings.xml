@@ -4,10 +4,12 @@
     <string name="hello">Hello World, CantNotShopActivity!</string>
     <string name="hello2">Hello World, 2nd time!</string>
     <string name="app_name">CantNotShop</string>
+    <string name="action_bar_title">CANT NOT SHOP</string>
     
     <!-- Navigation strings -->
-    <string name="nav_next">Next</string>
-    <string name="nav_prev">Previous</string>
+    <string name="nav_next">&gt;&gt;</string>
+    <string name="nav_prev">&lt;&lt;</string>
+    <string name="space_cheat">  </string>
     
     
     <!-- Alert dialog buttons -->
